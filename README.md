@@ -1,4 +1,4 @@
-## Wheel Of Fortune
+# Wheel Of Fortune
 
 ## General Overview
 In Wheel of Fortune, the user attempts to accumulate as much money as possible by “spinning a wheel” and guessing letters in an attempt to figure out a secret phrase. Money will be awarded to the player for correct guesses, and deducted for incorrect guesses. The game ends when the player correctly guesses the phrase or has guessed all possible letters. 
