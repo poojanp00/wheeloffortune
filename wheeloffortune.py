@@ -259,7 +259,7 @@ def buyAVowel(originalphrase, winnings, blanks, vowelsguessed, consonantsguessed
 
 
     else:
-        print("Sorry, you do not have enough money to buy a vowel!")
+        print("Sorry, a vowel costs $250, you do not have enough money to buy a vowel!")
         turn(originalphrase, winnings, blanks, vowelsguessed, consonantsguessed)
 
 # The following lines return the updated vowels and consonants guessed.
